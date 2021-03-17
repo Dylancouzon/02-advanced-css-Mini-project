@@ -1,6 +1,8 @@
 h1,
 h2,
-h3 {
+h3,
+p,
+form{
   text-align: center;
 }
 
@@ -14,6 +16,12 @@ header {
   background-color: green;
 }
 
+nav{
+  position: absolute;
+  left : 1100px;
+  top: 50px;
+  display : inline;
+}
 footer {
   width: 100%;
   border: 10px solid green;
@@ -22,10 +30,14 @@ footer {
 }
 
 section {
-  height: 400px;
   width: 80%;
   margin: 30px auto;
   border: 10px solid black;
+}
+
+figure {
+  text-align: center;
+ 
 }
 
 #leprechaun{
