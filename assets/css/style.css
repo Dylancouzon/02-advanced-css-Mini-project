@@ -1,0 +1,45 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+body {
+  background-color: greenyellow;
+}
+
+header {
+  width: 100%;
+  border: 10px solid green;
+  background-color: green;
+}
+
+footer {
+  width: 100%;
+  border: 10px solid green;
+  background-color: green;
+  text-align: center;
+}
+
+section {
+  height: 400px;
+  width: 80%;
+  margin: 30px auto;
+  border: 10px solid black;
+}
+
+#leprechaun{
+  position: absolute;
+  left : 425px;
+  Top : 30px;
+  width : 50px;
+  height: 50px;
+}
+
+#leprechaun2{
+  position: absolute;
+  left : 880px;
+  top: 30px;
+  width : 50px;
+  height: 50px;
+}
